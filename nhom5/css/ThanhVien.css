@@ -1,0 +1,89 @@
+.container-fuld{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:monospace;
+}
+.menu nav ul li a{
+    color: black;
+    font-size: 20px;
+    font-weight:bold;
+    margin-left: 20px;
+}
+nav ul li input{
+    margin-left: 30px; 
+    border: none;
+    border-bottom:1px solid black ;
+}
+.nav-link:hover {
+    color: rgb(172, 172, 133);
+}
+
+#sp ul li:hover{
+    background-color: rgb(252, 247, 247);
+}
+#sp ul li a{
+    font-size: 15px;
+}
+#sp1 ul li:hover{
+    background-color: rgb(252, 247, 247);
+}
+.nav-link:active {
+    color: rgb(100, 100, 70);
+}
+#sp:hover{
+    color: rgb(172, 172, 133);
+}
+#sp:active{
+    color: rgb(100, 100, 70);
+}
+
+/* ... */
+#aodai{
+    margin-left: 20px;
+}
+#aodai h4{
+    text-align: left;
+    margin-top: 60px;
+    color: rgb(103, 56, 56);
+}
+#aodai p{
+    margin-top: -30px;
+    text-align: left;
+    color: rgb(173, 101, 101);
+    font-size: 15px;
+}
+#bien p{
+    color: rgb(103, 56, 56);
+    font-size: 30px;
+    font-weight: bold;
+}
+.table th{
+    text-align: center;
+    background-color: rgb(103, 56, 56);
+    color: white;
+}
+.table td{
+    background-color:rgb(191, 165, 165) ;
+    color: white;
+}
+/* ... */
+
+#footer a{
+    color: black;
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+#footer h5{
+    color: black;
+    font-size: 20px;
+}
+#footer p{
+    color: black;
+    font-size: 14px;
+}
+#footer ul li{
+    float: left;
+}

@@ -1,0 +1,86 @@
+.container-fuld{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:monospace;
+}
+.menu nav ul li a{
+    color: black;
+    font-size: 20px;
+    font-weight:bold;
+    margin-left: 20px;
+}
+nav ul li input{
+    margin-left: 30px; 
+    border: none;
+    border-bottom:1px solid black ;
+}
+.nav-link:hover {
+    color: rgb(172, 172, 133);
+}
+
+#sp ul li:hover{
+    background-color: rgb(252, 247, 247);
+}
+#sp ul li a{
+    font-size: 15px;
+}
+#sp1 ul li:hover{
+    background-color: rgb(252, 247, 247);
+}
+.nav-link:active {
+    color: rgb(100, 100, 70);
+}
+#sp:hover{
+    color: rgb(172, 172, 133);
+}
+#sp:active{
+    color: rgb(100, 100, 70);
+}
+/* -------------------- */
+
+#hinhsp{
+    width: 85%;
+    height: 100%;
+    border-bottom:1px solid rgb(144, 84, 84) ;
+    border-right:1px solid rgb(144, 84, 84) ;
+    box-shadow: 5px 5px 10px 10px rgba(168, 153, 153, 0.5);
+}
+#hinhsp img{
+    width: 100%;
+    height: 100%;
+}
+.border-white{
+    background-color:  rgb(103, 56, 56);
+}
+.border-white.rounded-pill {
+    color: white;
+    font-size: 25px;
+}
+.don {
+    display: inline-block;
+}
+.don h4,
+.don span {
+    display: inline;
+    margin: 0;
+}
+/* -------------------- */
+#footer a{
+    color: black;
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+#footer h5{
+    color: black;
+    font-size: 20px;
+}
+#footer p{
+    color: black;
+    font-size: 14px;
+}
+#footer ul li{
+    float: left;
+}

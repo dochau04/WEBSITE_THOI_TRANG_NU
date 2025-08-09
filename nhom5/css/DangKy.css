@@ -1,0 +1,100 @@
+.container-fuld{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:monospace;
+}
+.menu nav ul li a{
+    color: black;
+    font-size: 20px;
+    font-weight:bold;
+    margin-left: 20px;
+}
+nav ul li input{
+    margin-left: 30px; 
+    border: none;
+    border-bottom:1px solid black ;
+}
+.nav-link:hover {
+    color: rgb(172, 172, 133);
+}
+
+#sp ul li:hover{
+    background-color: rgb(252, 247, 247);
+}
+#sp ul li a{
+    font-size: 15px;
+}
+#sp1 ul li:hover{
+    background-color: rgb(252, 247, 247);
+}
+.nav-link:active {
+    color: rgb(100, 100, 70);
+}
+#sp:hover{
+    color: rgb(172, 172, 133);
+}
+#sp:active{
+    color: rgb(100, 100, 70);
+}
+/* .... */
+#khung{
+    height: 1100px;
+    background-color:rgb(191, 165, 165) ;
+}
+.form{
+    height: 90%;
+    width: 60%;
+    background-color:white ;
+}
+
+.form{
+    margin-top: 30px;
+}
+.body{
+    border-bottom: 1px solid rgb(55, 45, 45);
+}
+.body h1{
+    color: rgb(103, 56, 56);
+    text-align: center;
+}
+.form-group img{
+    width: 5%;
+}
+.form-group{
+    margin-top: 20px;
+}
+.form-group label{
+    margin-bottom: 10px;
+}
+
+#btndk{
+    background-color:rgb(103, 56, 56) ;
+    color: white;
+    font-size: 25px;
+}
+#btnh{
+    background-color:rgb(103, 56, 56) ;
+    color: white;
+    font-size: 25px;
+}
+
+/*  */
+#footer a{
+    color: black;
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+#footer h5{
+    color: black;
+    font-size: 20px;
+}
+#footer p{
+    color: black;
+    font-size: 14px;
+}
+#footer ul li{
+    float: left;
+} 
