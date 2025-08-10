@@ -16,18 +16,17 @@ Website Thời Trang Nữ là một nền tảng mua sắm trực tuyến hiện
 
 ## 🖼 Hình ảnh minh họa
 ### Giao diện trang chủ
-(<img width="1870" height="896" alt="Ảnh chụp màn hình 2025-08-10 074525" src="https://github.com/user-attachments/assets/5c88549d-3716-4fd6-b7cb-e9d6b2c3fb0d" />)
-![Danh mục sản phẩm](images/products.png)
+<img width="1870" height="896" alt="Ảnh chụp màn hình 2025-08-10 074525" src="https://github.com/user-attachments/assets/5c88549d-3716-4fd6-b7cb-e9d6b2c3fb0d" />)
 ### Giao diện các trang sản phẩm
-(<img width="1919" height="901" alt="Ảnh chụp màn hình 2025-08-10 075003" src="https://github.com/user-attachments/assets/b14341fd-f044-423f-879f-10c88ba883f2" />
-)
-(<img width="1907" height="899" alt="Ảnh chụp màn hình 2025-08-10 074850" src="https://github.com/user-attachments/assets/87f94eff-e4c5-47ab-97e4-a2cdfac0ed22" />
-)
-(<img width="1876" height="914" alt="Ảnh chụp màn hình 2025-08-10 075036" src="https://github.com/user-attachments/assets/39647ce0-1735-40a8-9b7f-56205bfe3b04" />
-)
+<img width="1919" height="901" alt="Ảnh chụp màn hình 2025-08-10 075003" src="https://github.com/user-attachments/assets/b14341fd-f044-423f-879f-10c88ba883f2" />
+
+<img width="1907" height="899" alt="Ảnh chụp màn hình 2025-08-10 074850" src="https://github.com/user-attachments/assets/87f94eff-e4c5-47ab-97e4-a2cdfac0ed22" />
+
+<img width="1876" height="914" alt="Ảnh chụp màn hình 2025-08-10 075036" src="https://github.com/user-attachments/assets/39647ce0-1735-40a8-9b7f-56205bfe3b04" />
+
 ### Về chúng tôi
-(<img width="1909" height="907" alt="Ảnh chụp màn hình 2025-08-10 075147" src="https://github.com/user-attachments/assets/798b44db-be4f-464f-9c72-bd11a45bf154" />
-)
+<img width="1909" height="907" alt="Ảnh chụp màn hình 2025-08-10 075147" src="https://github.com/user-attachments/assets/798b44db-be4f-464f-9c72-bd11a45bf154" />
+
 ## 👩‍💻 Công nghệ sử dụng
 - **HTML5, CSS3, JavaScript**
 - **Bootstrap**
