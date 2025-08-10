@@ -15,7 +15,8 @@ Website Thời Trang Nữ là một nền tảng mua sắm trực tuyến hiện
 - `VeChungToi.html` – Giới thiệu về cửa hàng/thương hiệu.
 
 ## 🖼 Hình ảnh minh họa
-![Giao diện trang chủ](<img width="1256" height="679" alt="image" src="https://github.com/user-attachments/assets/c4961d40-7a92-49f4-9ced-9b98efa6028a" />)
+![Giao diện trang chủ](<img width="1870" height="896" alt="image" src="https://github.com/user-attachments/assets/cc8137a0-5aca-472c-ac80-5f6b79242269" />
+)
 ![Danh mục sản phẩm](images/products.png)
 
 ## 👩‍💻 Công nghệ sử dụng
